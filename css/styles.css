@@ -70,8 +70,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background-color: #4d5ae5;
+        background-color: #4d5ae5;
      cursor: pointer;
 }
 .form-button:hover,
@@ -103,6 +102,18 @@ text-align: center;
 color: #2e2f42;
 text-transform: capitalize; 
 }
+.mark-guerrero {
+ background-color: #FFFFFF;
+}
+.tom-ford {
+ background-color: #FFFFFF;
+}
+.camila-garcia {
+ background-color: #FFFFFF;
+}
+.daniel-wilson {
+ background-color: #FFFFFF;
+}
 .personal-name {
 font-weight: 500;
 font-size: 20px;
@@ -126,6 +137,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize; 
 }
 .name-portfolio {
 font-weight: 500;
@@ -144,7 +156,7 @@ letter-spacing: 0.02em;
 .page-footer {
     background-color: #2e2f42;
 }
-description-footer {
+.description-footer {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
