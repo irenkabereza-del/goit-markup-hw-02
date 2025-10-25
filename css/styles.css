@@ -102,18 +102,10 @@ text-align: center;
 color: #2e2f42;
 text-transform: capitalize; 
 }
-.mark-guerrero {
+.personal-information {
  background-color: #FFFFFF;
 }
-.tom-ford {
- background-color: #FFFFFF;
-}
-.camila-garcia {
- background-color: #FFFFFF;
-}
-.daniel-wilson {
- background-color: #FFFFFF;
-}
+
 .personal-name {
 font-weight: 500;
 font-size: 20px;
